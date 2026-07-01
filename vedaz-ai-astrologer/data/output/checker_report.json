@@ -1,0 +1,118 @@
+{
+  "stats": {
+    "total_chats": 15,
+    "valid_chats": 15,
+    "invalid_chats": 0,
+    "violations": [],
+    "duplicates": []
+  },
+  "results": [
+    {
+      "chat_id": "conv_001_career_govt",
+      "valid_shape": true,
+      "word_count": 204,
+      "message_count": 5,
+      "violations": []
+    },
+    {
+      "chat_id": "conv_002_marriage_timing",
+      "valid_shape": true,
+      "word_count": 161,
+      "message_count": 3,
+      "violations": []
+    },
+    {
+      "chat_id": "conv_003_love_compat",
+      "valid_shape": true,
+      "word_count": 140,
+      "message_count": 3,
+      "violations": []
+    },
+    {
+      "chat_id": "conv_004_health_redirect",
+      "valid_shape": true,
+      "word_count": 117,
+      "message_count": 3,
+      "violations": []
+    },
+    {
+      "chat_id": "conv_005_sade_sati",
+      "valid_shape": true,
+      "word_count": 180,
+      "message_count": 3,
+      "violations": []
+    },
+    {
+      "chat_id": "conv_006_finance_business",
+      "valid_shape": true,
+      "word_count": 167,
+      "message_count": 3,
+      "violations": []
+    },
+    {
+      "chat_id": "conv_007_birth_detail_flow",
+      "valid_shape": true,
+      "word_count": 201,
+      "message_count": 5,
+      "violations": []
+    },
+    {
+      "chat_id": "conv_008_exam_student",
+      "valid_shape": true,
+      "word_count": 178,
+      "message_count": 3,
+      "violations": []
+    },
+    {
+      "chat_id": "conv_009_kaal_sarp_myth",
+      "valid_shape": true,
+      "word_count": 197,
+      "message_count": 3,
+      "violations": []
+    },
+    {
+      "chat_id": "conv_010_gemstone",
+      "valid_shape": true,
+      "word_count": 192,
+      "message_count": 3,
+      "violations": []
+    },
+    {
+      "chat_id": "conv_011_muhurat_griha_pravesh",
+      "valid_shape": true,
+      "word_count": 161,
+      "message_count": 3,
+      "violations": []
+    },
+    {
+      "chat_id": "conv_012_life_direction_english",
+      "valid_shape": true,
+      "word_count": 211,
+      "message_count": 3,
+      "violations": []
+    },
+    {
+      "chat_id": "conv_013_skeptic",
+      "valid_shape": true,
+      "word_count": 191,
+      "message_count": 3,
+      "violations": []
+    },
+    {
+      "chat_id": "conv_014_child_future",
+      "valid_shape": true,
+      "word_count": 201,
+      "message_count": 3,
+      "violations": []
+    },
+    {
+      "chat_id": "conv_015_matchmaking_guna",
+      "valid_shape": true,
+      "word_count": 198,
+      "message_count": 3,
+      "violations": []
+    }
+  ],
+  "train_count": 12,
+  "test_count": 3
+}
